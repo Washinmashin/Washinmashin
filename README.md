@@ -23,3 +23,4 @@ Un "escritor" amateur con gusto por la poesía, los idiomas y la filosofía, que
 
 
 ## Find me at... ⬇️
+<img src="Logo_linkedin.png" alt="Logo de LinkedIn" width="28" height="28"> <a href="https://www.linkedin.com/in/jorodrord/" style="text-decoration:none;" target="_blank">![Static Badge](https://img.shields.io/badge/LinkedIn-@jorodrord-1DA1F2?style=for-the-badge)</a>&nbsp;&nbsp;&nbsp;<img src="Logo_facebook.png" alt="Logo de Facebook" width="29" height="29"> <a href="https://www.facebook.com/profile.php?id=61587435806796" style="text-decoration:none;" target="_blank">![Static Badge](https://img.shields.io/badge/Facebook-@Washi-1877F2?style=for-the-badge)</a>
