@@ -18,7 +18,7 @@ Un "escritor" amateur con gusto por la poesía, los idiomas y la filosofía, que
 - Coffeeholic ~ ☕
 - Full-Stack Web Designer | Software Developer 🎓
 
-<img src="Bandera_catalunya.png" alt="Catalán" width="35" height="35"> ![Static Badge](https://img.shields.io/badge/Catal%C3%A0-Nadiu-yellow?style=for-the-badge)&nbsp;&nbsp;&nbsp;<img src="Bandera_espana.png" alt="Castellano" width="35" height="35">  ![Static Badge](https://img.shields.io/badge/Castellano-Nativo-red?style=for-the-badge)&nbsp;&nbsp;&nbsp;<img src="Bandera_reino_unido.png" alt="Inglés" width="35" height="35"> ![Static Badge](https://img.shields.io/badge/English-B1-blue?style=for-the-badge)&nbsp;&nbsp;&nbsp;<img src="Bandera_japon.png" alt="Japonés" width="35" height="35"> ![Static Badge](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-N5%20%2F%20N4-red?style=for-the-badge) 
+<img src="Bandera_catalunya.png" alt="Catalán" width="32" height="32"> ![Static Badge](https://img.shields.io/badge/Catal%C3%A0-Nadiu-FFDD00?style=for-the-badge)&nbsp;&nbsp;&nbsp;<img src="Bandera_espana.png" alt="Castellano" width="32" height="32">  ![Static Badge](https://img.shields.io/badge/Castellano-Nativo-FF0000?style=for-the-badge)&nbsp;&nbsp;&nbsp;<img src="Bandera_reino_unido.png" alt="Inglés" width="32" height="32"> ![Static Badge](https://img.shields.io/badge/English-B1-1DA1F2?style=for-the-badge)&nbsp;&nbsp;&nbsp;<img src="Bandera_japon.png" alt="Japonés" width="32" height="32"> ![Static Badge](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-N5%20%2F%20N4-FF0000?style=for-the-badge) 
 
 
 
